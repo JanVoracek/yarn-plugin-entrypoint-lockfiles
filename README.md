@@ -1,3 +1,6 @@
+⚠️ This plugin does not work with Yarn 4 and there is probably no way to fix it.
+---
+
 ## Why this plugin
 
 In the context of a Yarn 2+ monorepo with workspaces, you are supposed to have only one top-level `yarn.lock` file at the root of your monorepo.
